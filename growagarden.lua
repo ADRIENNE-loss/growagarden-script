@@ -56,3 +56,4 @@ MainSection:NewButton("Teleport to Shop", "Teleport to Candy Blossom Shop", func
         warn("❌ Shop not found to teleport.")
     end
 end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ADRIENNE/growagarden-script/main/growagarden.lua"))()
